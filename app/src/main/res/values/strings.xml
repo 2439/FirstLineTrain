@@ -1,4 +1,12 @@
 <resources>
     <string name="app_name">FirstLineTrain</string>
     <string name="string_InputAddress">输入地址</string>
+    <string name="forecast">预报</string>
+    <string name="line">|</string>
+    <string name="todo">TODO</string>
+    <string name="lifecount">生活指数</string>
+    <string name="cold">感冒</string>
+    <string name="clothing">穿衣</string>
+    <string name="sunlight">实时紫外线</string>
+    <string name="carWashing">洗车</string>
 </resources>

@@ -1,6 +1,5 @@
 package com.example.firstlinetrain.logic.model
 
-import android.location.Location
 import com.google.gson.annotations.SerializedName
 
 //数据模型
